@@ -175,3 +175,5 @@ an issue or send an email to the [SIG Architecture] mailing list.
 
 [Allowlist Policy]: https://github.com/cncf/foundation/blob/master/allowed-third-party-license-policy.md
 [SIG Architecture]: https://groups.google.com/forum/#!forum/kubernetes-sig-architecture
+
+In addition feel free to ask questions on the `#k8s-code-organization` slack channel in slack.k8s.io about dependency management.
